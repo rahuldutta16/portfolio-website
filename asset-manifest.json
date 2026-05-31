@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.2d473e96.css",
+    "main.js": "/portfolio-website/static/js/main.12db384d.js",
+    "static/media/profile.jpg": "/portfolio-website/static/media/profile.9ccf297bd8a9c1096875.jpg",
+    "static/media/cropped_circle_image (1).png": "/portfolio-website/static/media/cropped_circle_image (1).926152f563747bb25b83.png",
+    "static/media/project2.jpg": "/portfolio-website/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/portfolio-website/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/portfolio-website/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/project5.jpg": "/portfolio-website/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/portfolio-website/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/project6.jpg": "/portfolio-website/static/media/project6.a22c939898d6c4613b65.jpg",
+    "static/media/Playwright--Streamline-Svg-Logos.svg": "/portfolio-website/static/media/Playwright--Streamline-Svg-Logos.e3e705fb7ab629a08e74834052745ede.svg",
+    "index.html": "/portfolio-website/index.html",
+    "main.2d473e96.css.map": "/portfolio-website/static/css/main.2d473e96.css.map",
+    "main.12db384d.js.map": "/portfolio-website/static/js/main.12db384d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d473e96.css",
+    "static/js/main.12db384d.js"
+  ]
+}
