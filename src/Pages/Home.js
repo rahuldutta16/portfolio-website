@@ -79,7 +79,7 @@ function Home() {
         </h2>
         <div className="mt-6">
           <a
-            href="https://drive.google.com/uc?export=download&id=1Id1Wtovvvtl5BnAAKrqJjcIBTRLkUw0Q"
+            href="https://drive.google.com/file/d/1jZHBJFW86O5qaWTU0vpzOHBXz3z3PJpn/view"
             target="_blank"
             rel="noreferrer noopener"
             className="inline-block px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
